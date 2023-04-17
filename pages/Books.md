@@ -1,4 +1,4 @@
-- [[Books/The Dictionary of Obscure Sorrows]]
+- [[The Dictionary of Obscure Sorrows]]
 - [[Books/The Mountain Is You]]
 - [[Books/Welcome Home: A Guide to Building a Home for your Soul]]
 - [[Books/The Light We Carry: Overcoming in Uncertain Times]]
