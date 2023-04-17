@@ -1,0 +1,12 @@
+Title:: The Problem with Problems
+Tags:: ux research, problem definition
+url:: [TBM 17/52: The Problem With Problems - by John Cutler (substack.com)](https://cutlefish.substack.com/p/tbm-1752-the-problem-with-problems)
+title:: The Problem With Problems - by John Cutler
+
+	- **16:04** [[quick capture]]: Every problem has two adjacent “problems”, and that is 1) the puzzle of figuring out if the original problem is worth solving, and 2) whether the original problem is solvable given certain constraints.
+	- “Here is my copious research about the nature of the customer problem! It is real! It exists!” But not as good at figuring out whether the problem is worth solving now. Is this the highest leverage thing we could be doing? What is the *opportunity*?
+	- An opportunity is a problem worth solving with a feasible path to making some progress (even if that path is all about learning whether the problem actually exists). So the problem isn’t just the problem itself. You have problems like viability, feasibility, opportunity, leverage, etc.
+	  **16:08** [[quick capture]]: In this sense, problem definition is political. It’s a negotiation. If you–person A over there–can perfectly define the problem, then you–person B over there–are on the hook to solve it. If we discover that the problem wasn’t defined well, we will blame person A. If the solution doesn’t work well, we will blame person B. Deniable culpability. [TBM 17/52: The Problem With Problems - by John Cutler](https://cutlefish.substack.com/p/tbm-1752-the-problem-with-problems)
+	- **16:08** [[quick capture]]: In this sense, problem definition is political. It’s a negotiation. If you–person A over there–can perfectly define the problem, then you–person B over there–are on the hook to solve it. If we discover that the problem wasn’t defined well, we will blame person A. If the solution doesn’t work well, we will blame person B. Deniable culpability.
+	- **16:09** [[quick capture]]: We fall in love with problems as easily as we fall in love with solutions (especially since most problems are also solutions). Which causes us to prematurely converge on a definition of the problem, and inflate the value of solving the problem.
+	-

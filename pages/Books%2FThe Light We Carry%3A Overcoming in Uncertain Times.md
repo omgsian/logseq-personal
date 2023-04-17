@@ -1,0 +1,135 @@
+Title:: The Light We Carry: Overcoming in Uncertain Times
+Author:: [[Michelle Obama]]
+Tags::
+
+- **Quotes**
+	- We knew so little and feared so much. Everything felt big. Everything felt consequential.Everything was big. Everything was consequential.It was hard not to feel overwhelmed.
+	- I know that’s part of the job of being a parent—to project an extra smidge of certainty even as your own knees are buckling a little bit beneath you
+	- Nothing felt even remotely like enough.
+	- I can see now that this is exactly what big storms do: They breach our boundaries and burst our pipes. They tear down structures and flood our normal routes and pathways. They strip away the signposts and leave us in a changed landscape, changed ourselves, with no choice but to find a new way forward.
+	- Barack and I had always tried to operate on the principles of hope and hard work, choosing to overlook the bad in favor of the good,
+	- privately I was finding it harder to access my own hope or to feel like I could make an actual difference.
+	- I had always presumed that my head was fully in charge of everything, including telling my hands what to do. It hadn’t really ever occurred to me to let things flow the opposite way. But that’s what knitting did. It reversed the flow. It buckled my churning brain into the back seat and allowed my hands to drive the car for a while. It detoured me away from my anxiety, just enough to provide some relief.
+	- It was from this quiet vantage point that I was able to see past my grief and frustration and locate my lost conviction
+	- sometimes the big stuff becomes easier to handle when you deliberately put something small alongside it.
+	- when I hit a point of feeling or thinking or seeing too much, I’ve learned to make the choice to go toward the small.
+	- the hard problems and wearying thoughts will always be there, largely unfinished and mostly unfixed. The holes will always be big, the answers slow to come.So, in the meantime, claim a small victory. Understand that it’s okay to be productive in a small way, to invest in endeavors that are adjacent to your big goals and larger dreams.
+	- When it comes to wanting to make a difference in the world, I find that it can also be useful to break down those gigantic, all-or-nothing goals into their component parts.
+	- we need to remember to keep laying the small alongside the big. One is a good companion for the other. Small endeavors help to guard our happiness, to keep it from getting consumed by all that’s big
+	- When we allow ourselves to celebrate tiny victories as important and meaningful, we start to understand the incremental nature of change
+	- If I begin to feel out of sync, if I’m feeling unsupported or overwhelmed, I try to take stock of what my garden holds, what I’ve planted and what I still need to mix in: What’s feeding my soil? What’s helping to block the weeds? Am I cultivating both the small and the tall?
+	- This is the power of small, where the intermediate steps matter, where it can be relieving to engage in what’s immediately in front of you, and where a start can more readily lead to a finish.This is how we move from It’s all too much back in the direction of I’ve got this.
+	- WHEN YOU’RE BEGINNING something new, you can’t always see where you’re headed with it. You have to be okay with not knowing exactly how things will turn out.
+	- I sometimes have to talk myself into bravery when I step out in public, or express my opinions, or take on something new.Most of what I’m describing here is abstract fear—fear of embarrassment or fear of rejection, worries that things will go wrong or someone will get hurt.
+	- Who doesn’t worry about loss, or harm, or failure? We are all constantly processing our fears, attempting to sort out actual emergencies from manufactured ones.
+	- The choices we make when feeling afraid, I believe, often determine the larger outcomes in our lives.
+	- What does it mean to be comfortably afraid? For me, the idea is simple. It’s about learning to deal wisely with fear, finding a way to let your nerves guide you rather than stop you. It’s settling yourself in the presence of life’s inevitable zombies and monsters so that you may contend with them more rationally, and trusting your own assessment of what’s harmful and what’s not. When you live this way, you are neither fully comfortable nor fully afraid. You accept that there’s a middle zone and learn to operate inside of it, awake and aware, but not held back.
+	- What does it mean to be comfortably afraid? For me, the idea is simple. It’s about learning to deal wisely with fear, finding a way to let your nerves guide you rather than stop you. It’s settling yourself in the presence of life’s inevitable zombies and monsters so that you may contend with them more rationally, and trusting your own assessment of what’s harmful and what’s not. When you live this way, you are neither fully comfortable nor fully afraid. You accept that there’s a middle zone and learn to operate inside of it, awake and aware, but not held back.
+	- For me, that one little church rehearsal turned out to be a rehearsal for all sorts of life moments ahead.
+	- In clinging only to what you know, you are making your world small. You are robbing yourself of chances to grow.
+	- Am I afraid because I’m in actual danger, or is it simply because I’m staring newness in the face?
+	- Had the uncertainties made us anxious? Did the newness create discomfort? Sure, many times. And yet hadn’t we proven ourselves more competent, more adaptable each step of the way?
+	- Our hurts become our fears. Our fears become our limits.
+	- She understood the importance of setting aside her fears and allowing me the power of my own competence, even as a kindergartner. And because she had faith in me, I had faith in me, too.
+	- Go forth with a spoonful of fear and return with a wagonful of competence.
+	- I became even more intimately acquainted with my fearful mind, that ruthless, naysaying part of me that was sure nothing ever would—or could—work out. Over and over and over again, I had to coach myself not to listen to it.
+	- Doubt comes from within. Your fearful mind is almost always trying to seize the steering wheel and change your course. Its whole function is to rehearse catastrophe, scare you out of opportunity, and throw rocks at your dreams.
+	- defying your fear almost always involves defying a part of yourself. To me, this is a vital aspect of the decoding: You have to learn how to identify and then tame something within. You have to practice past those fears. The more you practice, the better you get at it. Each leap I’ve taken has only made the next leap easier.
+	- The fearful mind loves to show up at moments of peak stress, and with a clear agenda: It wants to veto everything.
+	- Who doesn’t feel a jolt when walking into a room full of strangers or taking a public stance on something important? These are moments of distinct discomfort, foisted upon us routinely by life. But they can be thrilling, too.Why? Because we don’t know what lies on the other side of that initial experience. And the journey to get there might just be transformative.
+	- The unknown is where possibility glitters. If
+	- you don’t take the risk, if you don’t ride out a few jolts, you are taking away your opportunities to transform.
+	- Any time I hear the patter of negativity and self-criticism starting to get loud in my brain, when my doubts begin to build, I try to pause for a moment and call it as I see it.
+	- But what he sees first, what he chooses to recognize, is a whole person, someone he’s genuinely glad to see.
+	- For me, part of the beauty of “Heeey, Buddy!” is that it’s not terribly ambitious. It doesn’t really count as a pep talk. It requires no passion or eloquence, nor any sort of belief that the day ahead will be stellar, full of new opportunities and positive growth. It is merely a friendly hello
+	- She was giving them a simple message of enoughness. She was validating their light, that unique bit of brightness inside each of them—literally showing them it was there and it belonged to them, a power they could carry for themselves.
+	- In school, in jobs, and even inside of families and relationships, we are routinely asked to prove our worth, conditioned to believe we must pass a series of tests in order to win approval or advance ourselves.
+	- But the thing is, when someone does light up for us, we remember it. The feeling lands.
+	- When we are given a kind start, when another person greets us with unfettered gladness or trusts our ability to succeed, it can have a lasting, lifting sort of effect.
+	- Gladness is nourishing. It is a gift. When someone is happy to see us, we get a little steadier on our feet. We have an easier time locking into our poise. And we carry that feeling forward.
+	- to consciously and intentionally take the first self-denigrating or negatively tinged thought that arrives in my head and slide it off to one side. Then I invite a second thought, a better and more tender one, something more intentional, more friendly to self. And I choose that as my launching point.
+	- They describe the self-consciousness that comes with feeling like you don’t belong in the space you’re in.
+	- Nearly everyone on earth experiences this sort of feeling at some point—that prickling awareness that you’re somehow not suited to your environment, that you’re being viewed as a trespasser.
+	- The attention given to my height brought about a new self-consciousness in me, a slight sense of otherness.
+	- I found myself grasping for heroes, anyone who even remotely resembled me, anyone who could light the path forward and show me what was possible
+	- In life, it’s hard to dream about what’s not visible. When you look around and can’t find any version of yourself out there in the wider world, when you scan the horizon and see nobody like you, you start to feel a broader loneliness, a sense of being mismatched to your own hopes, your own plans, your own strengths. You begin to wonder where—and how—you will ever belong.
+	- Do I belong?What do others think of me?How am I seen?
+	- We adjust, hide, and compensate in order to manage our differentness in relation to the spaces we find ourselves in. We wear different masks—brave faces, really—for different situations, hoping to feel more safety or come closer to a sense of belonging, but still never feeling fully like ourselves.
+	- once you allow the judgment of others inside, it gets distracting. This is a hallmark of self-consciousness, a shift from thinking about yourself to imagining how people are thinking about you. And it can also become a form of self-sabotage, because now suddenly, you, too, are perceiving your differentness first.
+	- You start carrying the load of your label, whatever that label may be. Your differentness attaches to you like a flag.All this creates an extra burden, extra distraction. It adds another layer of required thinking to situations that for some might be casual, but for you now take energy.
+	- These messages of not-belonging create wounds, and the wounds don’t easily go away.
+	- regardless of where we’d arrived from, were just visitors passing through.
+	- There’s something unnerving about moving through a place and not seeing people who look like you anywhere.
+	- I came to realize that many of my classmates had grown up surrounded by people who looked and acted like them, their lives shaped by sameness, their comfort defined by it, too. Some had never had a peer who was Black or brown.
+	- Self-consciousness can do this. It can take away your footing and erase what you know to be true about yourself. It can leave you clumsy and unsure, disoriented about who and where you are. It’s as if the world has held up a mirror at an unflattering angle, showing you your unrecognizability to others, all the ways in which you don’t belong.
+	- It surfaced as a kind of ease—and not the ease that comes from privilege or wealth, but from something different. It was ease despite struggle. Ease despite uncertainty. It was ease from within.It made him noticeable, visible in all the right ways.
+	- He made a point of not holding on to pain or embarrassment, knowing that it wasn’t likely to serve him, recognizing that there was a certain power in being able to shake things off, in letting certain moments go.
+	- He didn’t focus on who he wasn’t or what he didn’t have. Instead, he measured his value by who he was and what he had
+	- How you view yourself becomes everything. It’s your foundation, the starting point for changing the world around you. I learned that from him. My father’s visibility helped me to find my own.
+	- I learned not to hide who I was, but to own it.
+	- I could take a second to remind myself of what, inside the walls of my own home, inside the shelter of my friendships, I already knew to be true. My validation came from inside. And it helped to be able to carry that power into a new room.
+	- It takes work to get yourself out of other people’s mirrors. It takes practice to keep the right messages in your head.It’s also helpful to acknowledge what makes this work so difficult.
+	- The people who deliver these messages become almost impossible to forget. They haunt us like ghosts. How many of us remain in a one-way dialogue with someone who demeaned or diminished us even decades ago?
+	- My life became a kind of reply: Your limits aren’t mine. To this day, she gets no gratitude from me, but I was able, in response to her indifference, to discover something in myself, a certain resolve.
+	- Discomfort is a teacher. Lack of reward is a teacher. Dealing with these things gives us practice at life, helping us figure out who we are when we’re a little pushed. When that tool is missing from your toolbox, it gets harder to navigate the adult world and the intricate dance of friendship.
+	- A Kitchen Table, in general, is never stagnant. Friends will come and go, taking on more or less importance as you move through different phases of life.
+	- No one person, no one relationship, will fulfill your every need. Not every friend can offer you safety or support on every day. Not everyone can, or will, show up precisely when or how you need them to. And this is why it’s good to always continue making room at your table, to keep yourself open to gathering more friends. You will never not need them, and you will never stop learning from them.
+	- What matters is that I can see and appreciate them, and they can see and appreciate me. My friends give me perspective. They help show me who I am.
+	- We are all guests at one another’s tables, sharing the privilege of intimacy and honesty.
+	- Your table needs to be deliberately built, deliberately populated, and deliberately tended to.
+	- you should also invest in that curiosity—setting aside time and energy for your friendship to grow and deepen, privileging it ahead of the things that will pile up and demand your attention in ways that friendship seldom does.
+	- When you know your own light, you are then better prepared to share it with another person. But you have to practice your way through all of it.
+	- We retreat when hurt. We armor up when scared. We might attack when provoked or yield when ashamed.
+	- I was looking at my truest love and my life’s greatest disrupter.
+	- life happens in seasons. Your fulfillment—in love, family, and career—rarely happens all at once. In a strong partnership, both people will take their turns at compromise, building that shared sense of home together, there in the in-between.
+	- And you will need to be doing it with someone who is equally able and willing to create the same latitude and show the same forbearance toward you—to love you despite all the baggage you show up with, despite what you look like and how you behave when you are at your absolute worst.
+	- We only hurt ourselves when we hide our realness away.
+	- Which gaps did we try to close? Which did we simply acknowledge and let be? Who made the adjustments or tried to unlearn what they knew?
+	- In the end, the child you have will grow into the person they’re meant to be. They will learn life their own way. You will control some but definitely not all of how it goes for them.
+	- How do we build places where gladness lives—for ourselves and for others, and most especially for children—and to which we will always want to return?
+	- When you’re breaking new generational ground in your family—the first to leave your neighborhood, the first to go to college, the first to own a house or get any sort of toehold into stability—you travel with the pride and expectations of everyone who came before you, everyone who waved you toward the mountaintop, trusting that you’ll get there even if they couldn’t.
+	- Our vaults can leave us lonely, isolated from others, exacerbating the pain of invisibility. And that’s a tough way to go. The amount we hold there, hidden out of sight and guarded by instinctive feelings of fear or shame, can contribute to a larger sense that we don’t belong or don’t matter
+	- All around me, I see smart and creative folks who are working their way step-by-step into greater power and visibility, in many instances having figured out how to harness rather than hide whatever sets them apart. When we do this, we start to acknowledge all the contradictions and influences that make us unique. We normalize differentness.
+	- Wong replied that the key for her was to not view any of those things as obstacles. “You just shift your perspective and think, ‘Wait a minute: I’m a woman! And most stand-up comics are male,’ ” she said. “You know what male comics can’t do? They can’t get pregnant. They can’t perform pregnant. So my attitude is, just use all those differences.”
+	- Our differences are treasures and they’re also tools. They are useful, valid, worthy, and important to share. Recognizing this, not only in ourselves but in the people around us, we begin to rewrite more and more stories of not-mattering
+	- It matters when we feel safe enough to show ourselves without shame and find ways to speak openly of the experiences that made us into the people we are.
+	- it matters when we have opportunities to affirm a brave voice and diminish another person’s isolation with words as simple as “me too.”
+	- You may hike all the way up to whatever mountaintop it is you’re hoping to reach—a job, a school, an opportunity—nobly carrying the hopes and expectations of your loved ones, batting away messages of shame and otherness like a superhero as you go. And when the climb finally ends and you arrive, exhausted and sweating, to that high place with a pretty view that you’ve long dreamed about, there’s one thing you’re almost always guaranteed to encounter, and that’s an air-conditioned luxury tour bus and a group of people who did none of the work, having been driven straight up an access road, their picnic blankets already laid out, their party well under way.It’s a demoralizing feeling. I’ve seen it and I’ve felt it myself.
+	- There’s no requirement to disclose every piece of private anguish you carry or every opinion in your head. Maybe, for a while, you just listen. Maybe you become a safe vessel for the stories of others, practicing what it feels like to receive another person’s truth with kindness, remembering to protect the dignity of those who are bold enough to share in an honest way.
+	- Read books by people whose perspective is different from yours, listen to voices you haven’t heard before, look for narratives that are new to you. In them and with them, you might end up finding more room for yourself.
+	- when the wholeness of your story adds to the wholeness of mine. I see a little of you. You see a little of me. We can’t know all of it, but we’re better off as familiars.
+	- For me, preparedness is part of the armor I wear. I plan, rehearse, and do my homework ahead of anything that feels even remotely like a test. This helps me to operate with more calm under stressful circumstances, knowing I will most often, regardless of what happens, find some pathway through. Being organized and prepared helps keep the floor feeling more solid beneath my feet.
+	- You were aware that if you made one mistake, or had one stumble, or there was one distracting crisis at home, you could be immediately and often permanently relegated to the group that got less.
+	- At some point, however, life will inevitably complicate any dream, whether it’s breaking into a certain professional field, performing on a big stage, or making meaningful social change. The limits come pretty quickly into view. Obstacles crop up. Naysayers emerge. Unfairness clutters the road. Practical concerns will often assert themselves. Money gets tight. Time grows short.
+	- You have to begin playing both offense and defense at the same time, pushing yourself forward while also doubling back to guard your resources, advancing toward your goals without fully draining your strength.
+	- The challenge in leading a big life becomes trying to find ways to protect your dreams and your drive, to remain tough without being overly guarded, to stay nimble and open to growth, allowing others to see you for who you are. It’s about learning how to shelter your flame without hiding its light.
+	- As a woman of color, she recognized a certain feeling, something we both shared, which is the ongoing challenge of trying to feel comfortable in places in which you are a minority.
+	- There were plenty of subtle cues to remind us that we just barely belonged, that our presence was experimental, almost—conditional on our adhering to someone else’s idea of good behavior.
+	- Many of us “code-switch” in order to get by, changing our behavior, appearance, or manner of speaking in order to better fit
+	- What are we sacrificing? Who does it serve? Are we compromising too much or denying our authentic selves in order to be accepted?
+	- We are whole and uncontainable people with whole and uncontainable lives. Our messes sometimes travel with us to work. Our vulnerabilities surface, our worries spill over. Our personalities, not to mention those of others around us, aren’t so easily tamped into a mold.
+	- Walk around wearing too much of it, being too defensive, too prepared for combat, and it’ll slow you down
+	- if we must continuously contort, adjust, hide, and guard ourselves at work—we risk losing opportunities to be seen as our best and truest selves, as expressive, fruitful, and full of ideas.
+	- Anything you do—any action you take—can be seen as stepping over a line.
+	- “Going high” was a way to describe a choice we were trying to make to always try harder and think more.
+	- We need to keep trying to go high. We must commit and recommit ourselves to the idea. Operating with integrity matters. It will matter forever. It is a tool.
+	- My power lay in whatever I could manage to do with that hurt and rage, where I could take it, what sort of destination I chose for it.
+	- Emotions are not plans. They don’t solve problems or right any wrongs. You can feel them—you will feel them, inevitably—but be careful about letting them guide you. Rage can be a dirty windshield. Hurt is like a broken steering wheel. Disappointment will only ride, sulking and unhelpful, in the back seat.
+	- it’s about doing what it takes to make your work count and your voice heard, despite the despites.
+	- Going high is work—often hard, often tedious, often inconvenient, and often bruising. You will need to disregard the haters and the doubters.
+	- Rage spreads easily, along with hurt, disappointment, and panic.
+	- We’ve become adept at making noise and congratulating one another for it, but sometimes we forget to do the work.
+	- Are we reacting or are we responding? It’s worth thinking about sometimes. It’s a question I ask myself before I post anything on social media or make any sort of public comment.
+	- I’ve learned that my initial thoughts are rarely all that valuable; they’re just the starting point from which we move forward.
+	- Sometimes you have to clear the path in order to be able to walk on it yourself, as well as to ready it for others.
+	- When you start to get yourself somewhere, people who never saw you as different might now start to see you as different, or changed.
+	- The thick-skin part means learning what to do with your rage and your hurt, where to put it, how to convert it into actual power. It means picking a destination and understanding it will take some time to get there.
+	- It means that you have to be judicious with your energy and clear in your convictions. You push ahead in some instances and pull back in others, giving yourself opportunities to rest and restore.
+	- I embraced the power of small by narrowing my focus, choosing to work on a few key issues that were meaningful to me as I stayed dedicated to my family. And I tried to be kind to myself, to both protect and share my light while drawing from the boundless light offered by others
+	- Someday we will look back at this time we’re now in. We will view it from a different historical perch, a set of future circumstances that we can hardly imagine now. I wonder what we will make of this time, what will feel recognizable and what will feel ancient. Which stories will get told? What changes will we have managed to make? What will we have forgotten and what will we have enshrined?
+	- We have to be able to envision what’s possible, summoning it from the unknown—whatever does not yet exist, the sort of world we hope to live in—in order to even begin to actualize a plan to get there.
+	- I am glad that we work side by side. I’m glad for who you are. And I’m glad for myself, too.
+	- A motto stays hollow if we only repeat it and put it on products we can sell on Etsy. We need to embody it, pour ourselves into it—pour our frustration and hurt into it, even.
+	- Your love and sturdiness are immeasurable and have kept me grounded and hopeful during these strange and uncertain times. Thank you for always getting me through.
+- **Insights**
+	- Insert key insights

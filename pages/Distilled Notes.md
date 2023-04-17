@@ -1,0 +1,2 @@
+- [[Confusion as a learning and re-educational strategy]]
+- [[Fall in love with opportunities, not problems]]

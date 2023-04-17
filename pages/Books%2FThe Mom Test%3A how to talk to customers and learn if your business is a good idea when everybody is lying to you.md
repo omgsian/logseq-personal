@@ -1,0 +1,79 @@
+Title:: The Mom Test: how to talk to customers and learn if your business is a good idea when everybody is lying to you
+Author:: [[Rob Fitzpatrick]] 
+Tags:: #[[ux research]], #product-validation
+
+	- **Quotes**
+		- Talk about their life instead of your idea   Ask about specifics in the past instead of generics or opinions about the future. Talk less and listen more
+		- Ask how they currently solve X and how much it costs them to do so. And how much time it takes. Ask them to talk you through what happened the last time X came up
+		- Just like the others, fix it by asking about their life as it already is. How much does the problem cost them? How much do they currently pay to solve it? How big is the budget they’ve allocated? I hope you’re noticing a trend here.
+		- You don’t want to just collect feature requests. You aren’t building the product by committee. But the motivations and constraints behind those requests are critical.
+		- A question like “why do you bother” points toward their motivations. It gives you the why.
+		- What are the implications of that?"
+		- This distinguishes between I-will-pay-to-solve-that problems and thats-kind-of-annoying-but-I-can-deal-with-it “problems”. Some problems have big, costly implications. Others exist but don’t actually matter
+		- Talk me through the last time that happened."
+		- Learn through their actions instead of their opinions
+		- Get as close to the real action as you can. Seeing it first hand can provide unique insight into murky situations. But if you can’t get in there, asking them to talk you through the last time it happened still offers many of the benefits.
+		- What else have you tried?"
+		- What are they using now? How much does it cost and what do they love and hate about it? How much would those fixes be worth and how big of a pain would it be for them to switch to a new solution?
+		- In the abstract, it’s something he would “definitely” pay to solve. Once we got specific, he didn't even care enough to search for a solution (which do exist, incidentally).
+		- Rule of thumb: If they haven't looked for ways of solving it already, they're not going to look for (or buy) yours.
+		- As always, ask about what they currently do now, not what they believe they might do in the future
+		- How are you dealing with it now?"
+		- It leads to a conversation about whose budget the purchase will come from and who else within their company holds the power to torpedo the deal.
+		- One of the recurring “criticisms” about talking to customers is that you’re abdicating your creative vision and building your product by committee
+		- The questions to ask are about your customers’ lives: their problems, cares, constraints, and goals. You humbly and honestly gather as much information about them as you can and then take your own visionary leap to a solution
+		- you aren’t allowed to tell them what their problem is, and in return, they aren’t allowed to tell you what to build. They own the problem, you own the solution.
+		- There are three types of bad data:     Compliments   Fluff (generics, hypotheticals, and the future)   Ideas
+		- Most of your meetings will end with a compliment. It feels good. They said they liked it!   Unfortunately, they’re almost certainly lying. Not necessarily intentionally. They might want to be supportive or to protect your feelings. Or your excitement might be rubbing off on them.
+		- Ignoring compliments should be easy, but it’s not. We so desperately want to hear them that we are often tricked into registering them as positive data points instead of vacuous fibs.
+		- Compliments are the fool’s gold of customer learning: shiny, distracting, and entirely worthless.
+		- Fluff comes in 3 cuddly shapes:     Generic claims (“I usually”, "I always", "I never")    Future-tense promises (“I would”, "I will")   Hypothetical maybes ("I might", "I could")
+		- folks are wildly optimistic about what they would do in the future. They’re always more positive, excited, and willing to pay in the imagined future than they are once it arrives.
+		- Fluff-inducing questions include:     “Do you ever…”   “Would you ever…”   “What do you usually…”   “Do you think you…”   “Might you…”   “Could you see yourself…”
+		- You: “What would syncing to Excel allow you to do?
+		- When you hear a request, it’s your job to understand the motivations which led to it. You do that by digging around the question to find the root cause. Why do they bother doing it this way? Why do they want the feature? How are they currently coping without the feature? Dig.
+		- Questions to dig into feature requests:     “Why do you want that?”   “What would that let you do?”   “How are you coping without it?”   “Do you think we should push back the launch add that feature, or is it something we could add later?”   How would that fit into your day?
+		- Questions to dig into emotional signals:     “Tell me more about that.”   “That seems to really bug you — I bet there’s a story here.”   “What makes it so awful?”   “Why haven’t you been able to fix this already?”   “You seem pretty excited about that — it’s a big deal?”   “Why so happy?”   “Go on.”
+		- Every time you talk to someone, you should be asking a question which has the potential to completely destroy your currently imagined business.
+		- We go through the futile process of asking for opinions and fish for compliments because we crave approval. We want to believe that the support and sign-off of someone we respect means our venture will succeed
+		- Does-this-problem-matter” questions:     “How seriously do you take your blog?”    “Do you make money from it?”   “Have you tried making more money from it?”   “How much time do you spend on it each week?”   “Do you have any major aspirations for your blog?”   “Which tools and services do you use for it?”   “What are you already doing to improve this?”   “What are the 3 big things you’re trying to fix or improve right now?”
+		- Overlooking the product risks is just as deadly as overlooking the goals and constraints of our customers.
+		- But what did he actually tell us? He said that if we can get him more gigs, then he’ll pay a cut.
+		- The key phrase of “if you could get me more gigs” is basically shifting the burden from the customer to your product. Even though you’ve found a pain, your success is dependent on a bunch of other factors
+		- Product risk — Can I build it? Can I grow it? Will they keep using it?   Market risk — Do they want it? Will they pay? Are there enough of them?
+		- If we go through an unplanned conversation, we tend to focus on trivial stuff which keeps the conversation comfortable. Instead, decide what to ask with your team in a calm environment.
+		- Steve Blank solves this by recommending 3 separate meetings: the first about the customer and their problem; the second about your solution; and the third to sell a product.
+		- Learning from customers doesn’t mean you have to be wearing a suit and drinking boardroom coffee. Asking the right questions is fast and touches on topics people find quite interesting.
+		- You can usually get what you came for in 10-15 minutes, but people love telling stories about themselves, so you can keep this conversation going indefinitely if it’s valuable for you and interesting for them.
+		- Even within a more formal meeting, you still might want to keep it casual if you’re hoping to get non-biased feedback.
+		- Rule of thumb: Give as little information as possible about your idea while still nudging the discussion in a useful direction.
+		- Once we've learned the key facts about our industry and customers, it’s time to zoom in again and start revealing our idea and showing some product.
+		- Commitment — They are showing they’re serious by giving up something they value such as time, reputation, or money.    Advancement — They are moving to the next step of your real-world funnel and getting closer to a sale.   Commitment and advancement often arrive hand-in-hand.
+		- You know how to deal with compliments by now: deflect, ignore, and get back to business
+		- A time commitment could include:      Clear next meeting with known goals   Sitting down to give feedback on wireframes   Using a trial themselves for a non-trivial period   Reputation risk commitments might be:      Intro to peers or team   Intro to a decision maker (boss, spouse, lawyer)   Giving a public testimonial or case study   Financial commitments are easier to imagine and include:     Letter of intent (non-legal but gentlemanly agreement to purchase)   Pre-order   Deposit
+		- If they aren't excited, then good news: you got the information you came for. Assimilate it, decide if it matters enough to change your strategy, and then keep on keeping on
+		- The only thing people love talking about more than themselves is their problems. By taking an interest in the problems and minutia of their day, you’re already being more interesting than 99% of the people they’ve ever met.
+		- Instead, we can look for ways to separate ourselves from the crowd so they can find us
+		- The world is a relatively small place. Everyone knows someone. We just have to remember to ask.
+		- The first conversation with a good advisor looks similar to the first conversation with a flagship customer: you get along and are talking about a space you both care about
+		- You’ll get ignored a lot, but again, who cares? You aren’t trying to minimise your failure rate; you’re trying to get a few conversations going
+		- such, you need to be the one in control. You set the agenda, you keep it on topic, and you propose next steps. Don't be a jerk about it, but do have a plan for the meeting and be assertive about keeping it on track.
+		- Use whatever works. But I will say that you should start in person. It’s too easy to use surveys or phone calls as an excuse to skip the awkwardness of meeting in person rather than as a considered trade-off.
+		- Before we can serve everyone, we have to serve someone
+		- We were trying to serve everyone simultaneously. We said “yes” to every request. Every debate over a new feature could be won by claiming, “Well, those guys would love it.” The reverse argument could be made to prevent any feature’s removal.
+		- Getting specific about who your ideal customers are allows you to filter out all the noise which comes from everyone else
+		- Within this group, which type of this person would want it most?   Would everyone within this group buy/use it, or only some of them?   Why do they want it? (e.g. What is their problem or goal)   Does everyone in the group have that motivation or only some of them?   What additional motivations are there?   Which other types of people have these motivations?
+		- You have too-broad of a segment and are talking to everyone   You have multiple customer segments and missed some of them     You are selling to businesses with a complicated buying process and have overlooked some of the stakeholders
+		- You want to talk to people who are representative of your customers, not ones who sound impressive on your status report
+		- To do that, the customer and learning has to be shared with the entire founding team, promptly and faithfully. That relies on good notes plus a bit of pre- and post-meeting work.
+		- Spend up to an hour writing down your best guesses about what the person you’re about to talk to cares about and wants
+		- You want to move past the obvious stuff and spend your conversations finding answers the internet can’t give you.
+		- If this company were to fail, why would it have happened?   What would have to be true for this to be a huge success?
+		- through the key quotes and main takeaways of the conversation, as well as any problems you ran into.
+		- which questions worked and which didn’t? How can we do better next time? Were there any important signals or questions we missed? This stuff is more craft than science: you have to actively practice it to get better. It’s a valuable skill for your team to have, so it’s worth spending a bit of time improving.
+		- If you embrace Keeping it Casual, you'll find customer conversations appearing out of nowhere and catching you by surprise. Just go with it
+		- Signs you’re just going through the motions:       You’re talking more than they are   They are complimenting you or your idea   You told them about your idea and don’t know what’s happening next   You don’t have notes   You haven’t looked through your notes with your team   You got an unexpected answer and it didn’t change your idea   You weren’t scared of any of the questions you asked   You aren’t sure which big question you’re trying to answer by doing this
+		- The process before a batch of conversations:     If you haven’t yet, choose a focused, findable segment   With your team, decide your big 3 learning goals   If relevant, decide on ideal next steps and commitments   If conversations are the right tool, figure out who to talk to   Create a series of best guesses about what the person cares about   If a question could be answered via desk research, do that first
+		- During the conversation:     Frame the conversation   Keep it casual   Ask good questions which pass The Mom Test   Deflect compliments, anchor fluff, and dig beneath signals   Take good notes   If relevant, press for commitment and next steps
+		- After a batch of conversations:     With your team, review your notes and key customer quotes   If relevant, transfer notes into permanent storage   Update your beliefs and plans   Decide on the next 3 big questions
+		- Your customers are a crucial source of ongoing insight and will help catch any badgers in the bush, so to speak

@@ -1,0 +1,191 @@
+- #book-reviews
+	- Title:: Conversations on Love
+	  Author:: Natasha Lunn
+	  Date:: [[Feb 5th, 2023]]
+	  Tags:: #Book-Reviews
+	- **Quotes**
+		- According to Dr Poe, who used to teach a course on love at New York University, ‘People think, if I’m matching the other person then we’re a match, but that makes them more insecure because they’re not being themselves.’
+		- Because how can we work out how to find love without asking what that word really means?
+		- The best frame of mind to be in – for anything you want – is an ability to walk away from it, were it not to come right.
+		- The problem is not being alone. It’s being alone when you have a story in your head about human beings, and the proper place of companionship within our story. Instead of going out to learn dancing simply to avoid Saturday-night agony, you could change the story in your head about what being alone means. Because if being in your own company is fine on a Monday and a tragedy on a Saturday, the problem is not the objective fact of being alone, it’s the story you’re telling yourself.
+		- Acknowledging your brokenness, pain and insufficiency is a rather romantic thing to do. Actually, an overemphatic self-admiration cuts you off from other people, whereas an engagement with your own vulnerability is key to building a bond. When it comes to self-love it’s not so much about loving yourself, but accepting that all human beings have their less impressive sides, and so your less impressive sides don’t cut you off from the possibility of having a good relationship.
+		- One way of looking at the risk of losing yourself is through the prism of self-love or self-hatred, but another is asking, how much fidelity are you going to bring to being certain of your own feelings? And how many of your feelings are going to be overruled by stories that come in from the outside?
+		- One of the best models of love is how parents love their children. Parents really love their children. At the same time, sometimes they don’t like them – they get bored of them, they think they’re awful, they want a break from them. And all those things go on in the love that an adult might have for another, too: sometimes we’re fed up and aware of somebody’s glaring faults, but still very much on their side. They annoy us and we still love them.
+		- No one really wants to be idealized – we want to be seen and accepted and forgiven, and to know that we can be ourselves in our less edifying moments.
+		- You can’t tell where somebody else is in their life. They might just not fancy you, which is deeply unfortunate, but something to be accepted, not fought over, like bad weather.
+		- Could we imagine the many different ways there are to live a life? Could we imagine all the potential sorrows and joys in all those different stories? Perhaps, if we could, we would see that there are no ‘right’ or ‘wrong’ stories after all – just the lives in front of us, full of possibilities.
+		- As I grew older, I learnt that the expectation that someone will save you from who you are, or from what you have or don’t have, is a fallacy. Expecting someone to fill in a hole that’s within you? That’s expecting too much of any one person. That’s not your friend’s job or your partner’s job. That’s your job.
+		- Giving up that control is about having faith that things happened as they’re meant to, and if a plan doesn’t go accordingly that’s because there’s something else waiting for you – you just don’t know what it is yet.
+		- meaning in life comes from the kindness and compassion you show to others, and also from a deep, peaceful acceptance that allows you to look disaster and joy in the eye with the same kind of level-headedness.
+		- the minute someone pities you, you think, am I not living the way I’m meant to? We spend our whole lives trying to meet targets set by someone else. We lose sight of who we are, because we’re so busy chasing external things.
+		- Part of trying to figure out what you really want from life is ensuring you’re selective about who you surround yourself with, so now I largely refuse to go to places where I know I’ll be interrogated about not being married, because there’s no love or concern there. It’s just nosiness.
+		- being strong doesn’t mean you don’t need people. We’re not born to be alone. We need community, however we choose to find it: with a partner, with friends, with family. I
+		- when we stop relying on one person to make us happy, we not only find more confidence to question a relationship that isn’t working; we live a more varied and interesting life
+		- building a strong romantic relationship required self-sufficiency and self-understanding
+		- bestselling The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)
+		- Nobody is right for anyone. Actually, what makes somebody right is commitment.
+		- You’re not rigid and unchanging; you are moved by each other. It’s like two stones rubbing together until suddenly they fit.
+		- Meeting someone often happens in a place where you get used to being around them. You like or love someone when you like or love yourself when you’re with them – and that takes a long time to know. You have to let them in.
+		- Sometimes you want to become the other person’s fantasy, so you don’t lose them. You can be knocked out of shape a bit, and that’s different from mutual impact. That’s adaption, which is bad because you’re morphing out of shape to please the other. Whereas when you allow mutual impact, you’re not putting on an act to please the other – you allow impact because it’s the flow of dialogue, and hopefully you’re both doing it.
+		- Because when you like who you are when you are with another person, you realize how important it is to be around people who make you feel that way. They reflect your goodness back to you, and you know you’ve got it.
+		- They might think, if you knew the real me, you wouldn’t love me, because they felt the real ‘me’ wasn’t loved.
+		- By encouraging people to say their negative thoughts out loud it reassures them they are not an awful person. Often someone feels those things, not because of something bad they’ve done, but due to a free-floating shame that exists because they learnt as a child to believe they were bad.
+		- It’s about finding someone you can be ‘you’ around without performing, without being the party person or the successful I’m-in-control-of-everything person. Someone you can experiment with being vulnerable in front of and accepted by.
+		- part of falling in love is letting another person have an impact on you
+		- When you want to change to keep a partner interested, that’s ‘adaption’, which is bad because you’re bending your identity to please another. Whereas when you change alongside another person, that’s ‘mutual impact’, because you’re not putting on an act to please anyone. Instead, you’re growing, individually and together.
+		- Because being yourself in a relationship is a risk. It means showing someone the real bits of who you are – the spots beneath the make-up; the self-doubt beneath the cynicism – and finding the courage to say, ‘This is me. Take it or leave it,’ and to really mean it.
+		- There will always be temptations to hide from ourselves. The important thing is to notice them, to resist them, and to keep finding ways to be honest in our relationships.
+		- I think our job – maybe even our “duty” – is to – To bear the burden of the mystery with as much grace as we can.’ (Elizabeth Strout, Olive, Again)
+		- It’s easy to see now how short-sighted my approach to this portion of life was. How focused I was on receiving love, instead of giving it; on waiting for it, instead of building it.
+		- I wondered if the ugliest shade of unhappiness comes, not directly from what you lack, but from wanting a different life to the one you’re living.
+		- I needed to ask, what would a better way of seeing look like? And how do you move forward when uncertainty tempts you towards cynicism?
+		- The important thing, she explained, was not to make the ‘right’ or ‘best’ decision, but ‘to closely bind yourself to whatever you’re living’. She said, ‘You make your life meaningful by applying meaning to it – it’s not just inevitably meaningful as a result of the choices you’ve made.’
+		- When we feel lonely, we’re unhappy and long to escape this emotional pain. Solitude, by contrast, is a state of peaceful aloneness … it is an opportunity for self-reflection and a chance to connect to ourselves without distraction or disturbance.’
+		- Maybe not having something you want wakes you up to another kind of romance. And when life forces you to live in the intensity of the unknown, between two possible futures, it’s also a chance to develop the inner resources and love that will serve you well in the years ahead.
+		- Maybe, then, this is how you try to bear the burden of the mystery with grace: by finding humility where you once saw self-pity, and opportunity where you once saw absence. By saying, ‘Even if I don’t get what I want, I have a good life,’ then paying closer attention to the small details that make that life beautiful.
+		- we continued to find ways to make our lives overlap.
+		- If I felt then that the men I dated saw me only as a faint pencil sketch of a person, Marisa, by contrast, didn’t just see me clearly but brought out all the colours. When you spend time around a friend who makes you feel this way, you’re left with a lingering sense of peace.
+		- My childhood was difficult, and because of that I fear that people I get close to might leave.
+		- They taught me love could be consistent and solid and steady, that it could make me feel safe.
+		- When we end a phone call, I don’t say, ‘Love you, bye,’ I say, ‘I love you.’ When we’re apart, I tell them how much I miss them, and when we’re together, how beautiful they look.
+		- I’ve woven a big part of my identity through looking after people, and I know that part of love in friendship is asking for your needs to be met too.
+		- They point out my successes when sometimes I can’t see them. They show me the good parts of who I am when I don’t like myself.
+		- How can we love someone in a way that brings out the best in them? How can we commit, not only to the whole of who they are today, but to who they could be in the future?
+		- She told a reader looking for romantic love, ‘You have to put on an artist’s mindset and get creative and paint a portrait of a life alone that’s breathtaking.’
+		- You make a pact to build a life with someone without knowing what that life will look like. Without knowing who will get sick or who will lose their job, whose sex drive will change or whose in-laws might need regular care. This is what we do when we begin a relationship: we commit to something unknowable.
+		- to be in love is to recognize meaning in small, mundane moments
+		- the best definition of happiness is the ability to approach your life as this gorgeous, unfolding work of art that’s always changing, and never quite what you expect it to be, and then seeing that it’s more beautiful than anything that’s supposedly perfect and pristine
+		- What would the best possible version of my life look like without the thing I am longing for?
+		- But the truth is that being in love, or loving someone and being really happy, includes a lot of self-possessed behaviour. It requires you to feel your way towards what you want, make your own decisions, and save yourself.
+		- used to wish I knew you can only feel love when you feel worthy of love, and that includes doing things that make you feel good, like developing a career and becoming independent and having friends. But actually, I think what’s more important is understanding your desires and your urges and your complexity, rejecting dominant narratives about how weak and needy and bad and broken you are, and defining for yourself what you are instead.
+		- She also reminded me that, as much as love involves consciousness, part of it requires us to close our eyes and jump without a plan. And the fact that we took that leap, without knowing that everything would work out? Perhaps that act of faith, of hope, might carry us through tougher times, when we look back and marvel at it, and think, how little we knew, how easily we could have found a reason not to jump. Perhaps we will feel grateful for this naive decision, which allowed us to make a hundred more
+		- Just as I had learnt that a beautiful life contains joy and suffering, the people we love have amazing and frustrating layers
+		- Some days I feel I’ve got nothing, some days I wake up and feel I’ve got everything. Some days I can let go of the losses, some days I feel they’re crowding in on me, and they become stratas within the rock that I think I’ll never dig through.
+		- our experiences are bridges not ravines.
+		- Why did we ever think that loss wasn’t part of what it is to be a human being? Why does it come as such a shock to us?
+		- there are often lessons hiding in those moments where we don’t get what we want in life
+		- A lot of us have those moments of pointing to other people and saying, ‘They got this, and I didn’t.’ But none of that matters in the end, because I know I’ve been lucky to have my life as it’s unfolded. Once I let go of resentment, I was able to see that.
+		- She can’t feel joy without feeling that loss.
+		- We’re creatures of wanting, but also of consciousness. So the way that we can push back on longing is to pay attention to what we have.
+		- somewhere along the way I lost the idea that I could go with other people too. I felt marooned by travelling alone, like I was in an orbit and I couldn’t come back to Earth. I think we have to find a way to balance the messaging about being independent and self-reliant with the human desire to be connected, to love and be loved.
+		- who are all the people who add joy to our lives? Whose voice on the other end of the phone reminds us to have faith? Whose company reminds us of our best qualities when we’ve forgotten them? Who makes us laugh when we’re on the edge of tears? And then: how can we hold on to these people?
+		- It shouldn’t take a story of loss to make me appreciate a Tuesday morning phone call with my mum
+		- it means being brave enough to hope for what you want, but wise enough to know that life is not one love story, but many.
+		- Instead of waiting for love, I could choose it. I could notice and listen and pay better attention to the people already in my life.
+		- The search for any kind of love, I now believe, is a continual process of looking in and out. Looking inwards to understand yourself, to be curious about your needs and desires and gifts and flaws, to develop generosity and self-compassion. Then looking outwards to use the power those things give you to love other people, and the life you are living too. What I had learnt is that you don’t really find love at all; you create it,
+		- ‘The story of human intimacy is one of constantly allowing ourselves to see those we love most deeply in a new, more fractured light. Look hard. Risk that.’
+		- Because a relationship isn’t a course you can study for and then complete. Instead, it is a decision you make every day to build something meaningful with another person.
+		- my life was a picture and my loss was the frame; everything I did hung in the context of what I didn’t have.
+		- Love often goes wrong because of a lack of self-reflection and understanding.’ In order to be a good partner, she suggested, you have to understand what you need and fear, the insecurities that disguise themselves in other emotions.
+		- To some extent, we each must carry our own sadness and I was the only person who could forgive my body and learn to be at peace inside it.
+		- What I did learn is not to try to silence the sadness, but to focus more on living. Because love is rarely a pristine story
+		- We have to rebuild the relationships we value again and again, even when our hearts or egos are wounded
+		- The fleeting parts are tiny pockets of time like these, which we must do our best to pay attention to.
+		- Ad Astra (To the Stars). When I looked it up, I found it can be part of a phrase meaning ‘to the stars through hardships’,
+		- we need different people in our life to see different parts of who we are.
+		- I am more interested in the love that deepens over time. Everybody’s relationship to love is different. Sometimes it is great; sometimes it isn’t. New love is always exciting, but what happens after the newness of a relationship fades or dims is more beautiful to me. It’s something that grows, where there is patience and humour, where you can be furious with someone and still love them
+		- People often say, ‘Oh, love takes a lot of work,’ but I’ve found it’s an effort that doesn’t feel like work – it’s just maintenance. What I love, and what has been unexpected, is that in a good relationship loving someone can be easy.
+		- you can absolutely find newness in an older relationship, too, if you’re open to it
+		- Believing that I deserve love is a work in progress for me. I try to believe it every day, and on the days when I don’t, I try not to be too hard on myself. I’m able to do that because I know our love is steady. I know my partner is going to love me, whether I believe I deserve it or not.
+		- although you have to work at a relationship, you shouldn’t have to work at convincing someone to love you. Either they do or they don’t
+		- I think the reason people view older love as safe companionship is because we are scared to look honestly at its frailty. If we were to admit how fragile it is, it would be terrifying, because we have leveraged so much of our lives into it. Whereas with a new love, you’re aware of every fracture and place that it could go wrong, but the stakes aren’t as high yet.
+		- When I feel that frailty, there’s a scary part to it that ensures I don’t take love for granted
+		- So when you’re choosing a partner what you’re really choosing is how a person weathers change. You’re choosing how you weather change with and alongside them.
+		- Like you, your partner is always work in progress. As someone who loves them, your job is to keep knowing them, to keep being curious.
+		- They hold worlds and worlds inside of them that are inaccessible to you at certain points but can be accessed at others. And that’s tremendously gratifying.
+		- once you’ve got close to somebody, they can much more easily push your buttons than a stranger can, and vice versa
+		- a balance between you where your lives are intertwined, but they’re not so intertwined that you lose your own identity and the elements that brought you together in the first place
+		- It’s about getting into the habit of thinking, I can feel myself getting angry. It’s fine to have this feeling, and it’s important, because it’s telling me something. But what should I do with the feeling
+		- if you lose a sense of yourself as an individual it can damage a relationship, but if you can’t accept that your needs and wants are not the only story, then it will be difficult to understand your partner’s perspective.
+		- The truth is, there are going to be times when you don’t feel ‘in love’ with your partner, or when you wonder if someone else might make you happier. It’s useful to know and accept that, instead of thinking it means there is something wrong.
+		- you don’t just leave because you’re really unhappy, you leave because you believe you could be happier
+		- If you tell me, ‘I care about my partner,’ then my second question is, ‘How do you show it?’ The fact that you feel it isn’t enough. What do you do to let the other person know and yourself that that’s the case?
+		- The openness of your relationship depends on the openness of your conversations.
+		- An adult relationship is one in which people negotiate disclosure, intimacy, openness, what is together, what is apart.
+		- ‘The friend who holds your hand and says the wrong thing is made of dearer stuff than the one who stays away.’
+		- sometimes old friendships evolve like plants whose roots outgrow their pots: they are still alive, still growing, but they need more space to survive. More room to allow new people and experiences in too.
+		- To sustain friendships – old and new – I think we have to learn when to accept distance, and when to fight to repair it.
+		- Inevitably, there are some friendships that do slip away completely. In others, there might be months or years when we have to give each other space to disappear; and maybe that is a form of love too.
+		- There are years when, if we pull on it too much, tug for more of the thread than the other person is able to give at that point in their life, then it will become tight and strained and tense. It might even snap. But if we can loosen our grip a little, let it slacken in the middle, it will give both friends space to move closer and further apart
+		- No meaningful relationship can be consistently easy. Even the closest friends will neglect or misinterpret each other, say the wrong thing, feel rejected by change when different life stages pull them apart. The question, then, is not how to avoid these painful missteps, but how to keep trying to tell the truth to each other, regardless.
+		- It’s much harder to hold our nerve, to trust in the love between us, to accept the gaps in our knowledge of each other creeping in and then continue to make the effort anyway. But when we do, the greatest gift: to find that it’s still there, love, shining between us, despite everything.
+		- Love, whether in friendship or romantic relationships, goes wrong when we forget to tell people who we are and forget to ask who they are.
+		- the envy you project on to others is a sign of what you want but can’t get for yourself
+		- Our desires have become so hidden and forbidden that we’re not even aware of them on a conscious level.
+		- If I could ask myself, ‘What is it that she has that I’m not able to enact for myself?’ then instead of feeling stranded and envious, maybe I could tell you I’m feeling inadequate in X, Y and Z departments, and I could get help. That’s difficult to do. It’s also useful, because there are always going to be times when you’re out of sync with friends, and that’s going to hurt if you have been in sync for great periods of your life.
+		- You learn to understand that one friend’s problem doesn’t take precedence; they can both coexist as difficult situations.
+		- It’s about acknowledging that our experiences in the world are different from each other’s, rather than only seeking to find similarities.
+		- But it also means that, as we change, our friends won’t necessarily understand that we are not who we were last month, last year, or a decade ago. And we can’t expect them to. It is up to us to tell our friends who we are, and to be curious about who they are today too.
+		- Saying, ‘I’m proud you are achieving so much in your career, but sometimes that reminds me I’m struggling with mine.’ Or, ‘It’s amazing to see you content in your relationship, but often I feel there’s no room in your life for me any more.’ Or, in my case, ‘I love seeing pictures of your baby, but they also remind me how sad I am about not being pregnant.’
+		- Once we free ourselves from asking who we feel most sorry for, or who has made the best choice, and just allow those pains to coexist? I think that is the key to intimacy in your friendships.
+		- I’ve sunk into the safe, precious solidness of their love for me, and I know that, although it will take work, it is also a love that will be there for ever. True friendship is about taking it easy on each other, knowing that life has tides that take you to various places, and that you’ll find a way back to each other at different points.
+		- We were all different people. But the love had remained.
+		- I probably put pressure on them to remain a certain version of themselves, and for our friendship to remain in a certain dynamic, because, for me, something being constant meant that it was successful.
+		- I had learnt, we cannot expect another person to shoulder all of our needs. We can cry on them. We can share our lives and fears and underwear with them. But in order to experience the joy of these relationships, we have to make space for each other’s separateness.
+		- we have to find a way to truthfully share our vulnerability, even when that feels like a risk. This is how we continue to reach each other. And, perhaps, it is only once we trust in the sturdiness of our friendships that we can fully appreciate the richness of their layers. The lives that change. The love that remains. How it continues to hold us.
+		- What pieces of ourselves could – and should – we protect, and which would we need to give up?
+		- this idea that every time you look at your child as they’re growing, you see the same person through different stages of their life
+		- You can fully witness each other changing. And there’s something reassuring about the fact that, no matter how distant you might have become from yourself, no matter how much your relationship or your career has changed you, you can still connect with a person who knew you when you were a teenager. An old friendship is one of those things that helps you remember who you are in the world, and that’s so valuable.
+		- Priya made me feel like I had a warrior on my side. I needed someone who would understand me and be in my corner without trying to fix things
+		- we draw strength from being in each other’s orbit. When we spend time in each other’s company, our batteries have been filled up a little, and when we’re apart, there’s this little part of us that’s missing.
+		- This is what I now believe is part of the work of sustaining love: first, to create and make space for moments like these. And then? To notice them. To feel their fragility and their preciousness and their newness, even when they seem familiar.
+		- It is easy to notice someone when they are not there, when their absence makes you crave their return.
+		- In the joyful ones, will we overlook the beauty, or will we be consciously present? And in the painful ones, will we decide it’s easier to shut the conversation down than to dig for the uncomfortable truths? Or will we find a way back to a loving place?
+		- the love is in the act itself: the noticing, the forgiving, the reflecting, the trying.
+		- It is a constant reminder that intention is not enough, and that even if our friends and family and partners know that we love them, sometimes they deserve a little evidence.
+		- In loving them, it is our privilege to see and bring out all the different worlds and colours and depths within them, just as they have the potential to do the same for us in return. This reciprocity is at the heart of love – a balance of giving and receiving, of seeing and being seen, of asking and answering, of thinking always as ‘I’ and ‘we’
+		- the sadness chooses its own timeline – you lose a future in a moment, and then you are left to mourn it at a pace you can’t control
+		- How do you mourn the loss of a future you never really had?
+		- you just lie there, not wanting to get out of bed, not wanting to face the day that contains your loss.
+		- I see there are three parts to the deeper story of my sadness: the loss itself, the loneliness that accompanied it, and the shame – a feeling that I should have moved on by now.
+		- That’s why we should honour the heartbreaks that matter deeply to us, however insignificant we fear they might seem to anyone else.
+		- I had to accept my miscarriage was meaningful to me, but I also had to let go of the future I’d planned for in order to live fully in the life that I am lucky to have. The real life that’s happening now, here, today.
+		- In some of those moments, the relationship between love and loss seemed simple: you lost the love, then you were left with the grief. One was the price for the other.
+		- love and loss were not separate, consecutive stages, but two sides of the same coin. Grief did not follow or replace love – each thing existed inside the other. And loss was not a faraway thing, but a part of every loving, fading moment.
+		- it would not be possible to explore love without confronting loss too
+		- we risk every time we choose to love someone: not just that they might outlive us, or we them, but that they might break the heart we place in their hands.
+		- loss is not a mountain you climb up and come down the other side of. You never entirely get over it, but you do rise to the challenge, until eventually you live with the loss and it becomes part of you.
+		- To find a way through losses like those, you do have to continue to cherish what is good in life: the snowdrops that you see in winter, the cake you bake with your children, the moment when you laugh with a friend.
+		- I think people have a great capacity to fall in love again, even after immense loss.
+		- you can’t live your life fearing what lies around the corner.
+		- getting over a loss was an impossible goal. Instead, we learn to live with our griefs inside us, and to let them transform us, until they reveal our resilience.
+		- I learnt how to love, in my best form, through Ronan. I wouldn’t have been able to love in this way if I hadn’t been broken open by the experience of loving and losing him.
+		- But she does invite us to ask: what will we do with the lot life has given us, however unfair it might seem?
+		- Life is beautiful and we don’t have time to realize it. We let silly and petty things rule us and lead us into criticism. We find fault with life because we are tired and grumpy, instead of relishing the fact that we are with other people who are healthy, who love us and want to be with us.
+		- you grow to accept that, in the present, things are the way they are, and you better start enjoying living, not destroy yourself by thinking about things that might or might not happen.
+		- Love gives everything meaning but is too easily thrown away.
+		- Stephen invited me to think about the ‘everydayness of loss’: the tender melancholy that comes with letting go of significant places – schools, universities, jobs – as we seek out new adventures. Or the loss of a youth we leave behind to build an adult future. Rather than something we experience a handful of times, I learnt that loss is part of every day, and part of love too.
+		- To my way of thinking, life is a series of necessary losses. From the very start, there is loss.
+		- Life requires of us that we let go of places, things, people that we love, to make room for new life, new love. Development demands loss – it’s unbearable, we resist it, but if we are to grow, we must endure this pain.
+		- We help children by being with them in their grief; standing with them in their experience of loss.
+		- The capacity to love – the opposite of narcissism – is the capacity to see other people, their lives and feelings, as rea
+		- So my crippling is a daily living sculpture of certain truths; we receive and we lose, and we must try to achieve gratitude; and with that gratitude to embrace with whole hearts whatever of life that remains after the losses.
+		- love is an active experience we have influence over, rather than a passive one. My conversations about loss had proved the opposite was true too: we are not really in control of love – or life – at all.
+		- what we can control, as Ariel told me, is whether we choose to prioritize love, even in the face of a loss as seismic as the one she had lived through.
+		- Grief is isolating. You’re in a tunnel of all-encompassing pain. Everybody else is walking through the world and you are living in an alternate reality within that world
+		- At first you live in grief, then it lives in you.
+		- There will always be times when resilience or love is harder to find because you are drained and scared. Some days it was a victory to be able to wheel her to the loo, or to swing her legs out of the bed.
+		- We need to ask: how would I want to die? Then talk about it with family or write it down.
+		- We might avoid talking about death because we can’t bear to think about losing the people we love, when actually, not talking about it is one of the reasons we can take them for granted every day.
+		- I’d dwelt on these holes an absence would leave. I hadn’t given any thought to the positive impact we have on each other, all the enduring traces of goodness we keep and learn from. How, even after we die, we are alive inside each other.
+		- The understanding that no one’s going to find a good life for you, you have to find it for yourself. You have to live it to the best of your ability, to the best of your knowledge
+		- Heartbreak is too tailored and too sprawling for comparison to be of use to anyone
+		- For me, it’s partly selfish. It felt good to sit and listen to someone, to disappear into their thoughts and not to be left with my own. It is helpful and healing to try to help others.
+		- One particularly painful echo of loss is loneliness. The feeling that everyone else lives in a different, happier world, and you are stuck outside its window, looking in, unable to participate.
+		- Every time I formed a firm opinion, another answer reshaped it. This process was a lesson in itself: however many conversations on love I had, I would never find a fixed set of responses to its challenges.
+		- When someone’s dying, time goes away and your life and your love and your relationships are there all at once, in that hospital room, in those minutes. Moments like that become part of your memory. They open up your heart in a new way.
+		- there are three sources of meaning: love (for humans and for experiences, like a sunset), purposeful work (what you’re trying to do in and for the world), and the courage you find in the face of difficulty. It’s not just about sitting around loving each other; the way you respond to unavoidable suffering is also a source of meaning.
+		- There’s an essay by a doctor, Diane E. Meier, called ‘I Don’t Want Jenny to Think I’m Abandoning Her’, which talks about how sometimes we doctors use treatments, even relentless chemotherapy, as a way to show love to our patients. But how we learn over time that just sitting with people when they’re suffering, or visiting them when they’re dying, is a love that patients often want.
+		- Witnessing is a treatment and a form of love.
+		- suddenly you’re a different person too, because your future self is no longer there. At the same time, I do think there’s an essential self, and it’s worthwhile to realize that we are still ourselves, even with no future. But it takes a second to remember that.
+		- Wouldn’t disappointment hurt less if I never truly believed in a happy outcome in the first place?
+		- People die. Hearts break. We love and we lose. And then we have to summon the courage to reckon with our losses and get back up, knowing there is no assurance we won’t get knocked down again.
+		- It’s hard to see clearly what you learn from what you lose. At first, I thought the lesson of my loss was to protect myself from a similar ambush in the future, by holding back love. And now? I see that the uncertainty love requires is not a problem to be fixed; it is what makes it beautiful. It invites courage. It asks us to hope, without evidence, without knowing.
+		- All of love requires a risk, a moment where we have to decide to say, ‘I’m all in,’ even if we’ve been hurt before.
+		- Love is a choice – and sometimes it’s choosing to love someone even when we don’t feel lovingly towards them.
+		- I’d convinced myself that people who loved each other were drawn together like magnets, no matter what. But when distances like these emerge in our relationships, romantic or otherwise, we can’t wait for a mystical, gravitational force to close the gap – instead we have to create that force ourselves, with honesty and empathy and forgiveness.
+		- We see other people’s losses as terrible, faraway things; we say we can’t imagine them, but we must. It is the only way we will get better at saying, ‘I’m sorry.’ We do have this capacity, I had learnt, to be there for people we do not know.
+		- We have to remember to keep up the little acts that say ‘I’m here’: to post the birthday card, to look into someone’s eyes, to call, to kiss, to hug, to ask questions and to say ‘I love you’ – and not in a throwaway way. Then to remember the big things: to tell the truth, to accept impermanence, to retain separateness, to see beyond ourselves, to understand that, although other people’s flaws are annoying, so are ours; and to keep catching ourselves. By ‘catching ourselves’ I mean tapping into a self-awareness that allows us to pull back from a mistake while we are making it.
+	- **Insights**
+		- Insert key insights
+	-
